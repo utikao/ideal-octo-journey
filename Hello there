@@ -1,2 +1,9 @@
-input<1>  
-output print<hello there>
+package Projects;
+
+public class Main {
+
+    public static void main(String[] args)  {
+        System.out.println("Hello there");
+    }
+}
+
